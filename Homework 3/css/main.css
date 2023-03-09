@@ -1,0 +1,58 @@
+html,body{
+    margin: 0;
+    padding: 0;
+} 
+
+nav{
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+}
+
+header{
+    width: 100%;
+    height: 80vh;
+    background-color: lightgrey;
+}
+
+footer{
+    width: 100%;
+    height:100px;
+    background-color: #2b2b2b;
+}
+
+section{
+    width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.third{
+    height: 320px;
+}
+
+.cole-3{
+    width: 31.33%;
+    height: 250px;
+    background-color: grey;
+    margin: 1%;
+    float: left;
+}
+
+.full{
+      width: 80%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.cole-3{
+    width: 98%;
+    height: 250px;
+    background-color: grey;
+    margin: 1%;
+    float: left;
+}
